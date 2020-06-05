@@ -1,8 +1,8 @@
 /* Xiaomi Mi 3C (R3L)*/
 
-#define BOARD_PID		"MI-NANO"
-#define BOARD_NAME		"MI-NANO"
-#define BOARD_DESC		"Xiaomi Mi Nano Wireless Router"
+#define BOARD_PID		"MI-3C"
+#define BOARD_NAME		"MI-3C"
+#define BOARD_DESC		"Xiaomi Mi 3C Wireless Router"
 #define BOARD_VENDOR_NAME	"Beijing Xiaomi Technology Co., Ltd."
 #define BOARD_VENDOR_URL	"http://www.mi.com/"
 #define BOARD_MODEL_URL		"http://www.mi.com/miwifilite"
