@@ -27,6 +27,7 @@
 >- HC5861B
 >- 360P2 (USB)
 >- MI-NANO
+>- MI-3C
 >- MZ-R13
 >- MZ-R13P
 >- RT-AC1200GU (USB)
