@@ -1,8 +1,8 @@
 ##################################################################
-# Board PID # Board Name             # PRODUCT # Note
+# Board PID       # Board Name             # PRODUCT # Note
 ##################################################################
-# MI-4A100M     # MI-4A100M       # MT7628  #
+# MI-3A           # MI-3A       # MT7628  #
 ##################################################################
 
-CFLAGS += -DBOARD_MI4A100M
+CFLAGS += -DBOARD_MI3A
 BOARD_NUM_USB_PORTS=0
